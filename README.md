@@ -25,6 +25,3 @@
 - [ ] MongoDB
 - [ ] Mongoose
 - [ ] Pruebas unitarias
-
-
-Cambio algo para probar
